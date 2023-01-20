@@ -1,5 +1,5 @@
 # "Postres de Corazón" 💗🍰
-## Proyecto FInal
+## Proyecto Final - Cómputo Móvil
 * Universidad Nacional Autónoma de México
 * Cómputo Móvil - Grupo 1 — Semestre 2023-1
 * Fecha estimada: Jueves 19 de Enero de 2023
