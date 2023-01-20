@@ -10,7 +10,13 @@
 * **Romero López, Laura Jessica**  - [LauRomerol@GitHub](https://github.com/LauRomerol) :octocat:
 
 ## Descripción :books:
-Prototipado iOS: FIGMA 🔴🟠🟣🔵🟢 https://www.figma.com/file/2gwPxNixgFcEWvke6zdmh1/ComputoMovil-team-library?node-id=0%3A1&t=7K26wXTWUvOXb8UZ-1
+* Prototipado iOS: FIGMA 🔴🟠🟣🔵🟢 https://www.figma.com/file/2gwPxNixgFcEWvke6zdmh1/ComputoMovil-team-library?node-id=0%3A1&t=7K26wXTWUvOXb8UZ-1
+
+* Presentación de Venta $ https://github.com/manuuelnrs/PJ-iOSLab/blob/main/Presentaci%C3%B3nDeVentas.pdf
+* Video Promoción App [1] https://github.com/manuuelnrs/PJ-iOSLab/blob/main/VideoApp.mp4 
+* Video Alternativo [2] https://clipchamp.com/watch/BvoYSq9Ma7u
+
+### Herramientas
 
 Lengaje de programación: SWIFT 👨🏻‍💻
 
