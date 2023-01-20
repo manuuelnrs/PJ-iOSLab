@@ -1,12 +1,12 @@
 # "Postres de Corazón" 💗🍰
-## Proyecto Final - Cómputo Móvil
+## Proyecto Final - Cómputo Móvil 🤳
 * Universidad Nacional Autónoma de México
 * Cómputo Móvil - Grupo 1 — Semestre 2023-1
 * Fecha estimada: Jueves 19 de Enero de 2023
 
 ## Autores ✒️
 * **Moreno del Castillo, Araceli** - [Xtravaganzza@GitHub](https://github.com/Xtravaganzza) :octocat:
-* **Nava Rosales, Juan Manuel**    - [manuuelnrs@GitHub](https://github.com/manuuelnrs) :octocat: - [manuuelnrs@GitLab](https://gitlab.com/manuuelnrs) :fox_face:
+* **Nava Rosales, Juan Manuel**    - [manuuelnrs@GitHub](https://github.com/manuuelnrs) :octocat: [@GitLab](https://gitlab.com/manuuelnrs) :fox_face:
 * **Romero López, Laura Jessica**  - [LauRomerol@GitHub](https://github.com/LauRomerol) :octocat:
 
 ## Descripción :books:
